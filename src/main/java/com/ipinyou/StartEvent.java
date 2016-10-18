@@ -7,7 +7,6 @@ public class StartEvent extends HttpServlet {
 
     private static final long serialVersionUID = -9045451275234606838L;
 
-
     // Servlet's init method will be ran at Tomcat staring;
     @Override
     public void init() throws ServletException {
